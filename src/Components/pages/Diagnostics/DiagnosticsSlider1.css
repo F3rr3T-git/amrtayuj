@@ -1,0 +1,44 @@
+.diagnosticsSlider1-container{
+    height: 35vh !important;
+    width: 96% !important;
+    padding: 1% 1%;
+}
+.diagnosticsSlide1{
+    height: 100%;
+    display: grid;
+    justify-items: stretch;
+    grid-auto-flow: row;
+    border: 1px solid rgb(214, 210, 210);
+}
+
+.diagnosticsSlide1 > h5{
+    display: grid;
+    align-items: end;
+    padding: 4% 5% 1% 5%;
+    font-size: 16px;
+    color:rgb(10, 61, 214);
+}
+
+.diagnosticsSlide1 > p{
+    display: grid;
+    align-items: center;
+    padding: 0% 5% 3% 5%;
+    font-size: 13px;
+}
+
+.diagnosticsSlide1 > h2{
+    display: grid;
+    align-items: center;
+    padding: 0% 5% 8% 5%;
+    font-size: 30px;
+    
+}
+.diagnosticsSlide1 > h4{
+    display: grid;
+    justify-items: center;
+    align-items: end;
+    padding: 0% 5% 3% 5%;
+    font-size: 20px;
+    border-top: 2px solid rgb(214, 210, 210);
+    color:rgb(10, 61, 214);
+}

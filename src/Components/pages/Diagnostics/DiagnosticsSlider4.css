@@ -1,0 +1,25 @@
+.diagnosticsSlider4-container{
+    height: 35vh !important;
+    margin: 4% 2%;
+
+}
+
+.diagnosticsSlide4{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    justify-items: center;
+    border: 2px solid blue;
+}
+
+.diagnosticsSlide4 > h4 {
+    display: grid;
+    align-items: end;
+    font-size: 35px;
+}
+
+.diagnosticsSlide4 > p {
+    display: grid;
+    justify-items: stretch;
+    font-size: 17px;
+}

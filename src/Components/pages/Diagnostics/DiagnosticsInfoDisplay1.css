@@ -1,0 +1,40 @@
+.diagnosticsInfoDisplay1-container{
+    height: 65vh;
+    background-color: #e6e6fd;
+    font-size: 20px;
+
+}
+
+.diagnosticsInfoDisplay1-container > h1 {
+    padding: 3.5% 0% 2.5% 32%  ;
+
+}
+
+.diagnosticsInfoDisplay1-content{
+    height: 77%;
+    display: grid;
+    grid-auto-flow: column;
+
+}
+
+.diagnosticsInfoDisplay1-subcontent{
+    height: 90%;
+    margin: 2% 3% 2% 3% ;
+}
+.diagnosticsInfoDisplay1-subcontent > div{
+    display: grid;
+    grid-auto-flow: column;
+    padding: 2%;
+    margin-top: 4%;
+}
+
+.diagnosticsInfoDisplay1-subcontent > div > i{
+    font-size: 35px;
+    border-radius: 50%;
+}
+.diagnosticsInfoDisplay1-subcontent > div > p{
+    font-size: 16px;
+    padding-left: 2%;
+    margin-top: -0.5%;
+    
+}

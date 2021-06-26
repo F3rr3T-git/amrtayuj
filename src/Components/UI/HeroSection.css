@@ -1,0 +1,86 @@
+.hero-img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+  }
+  
+  .hero-container {
+    /* background: url('/images/img-home.jpg') center center/cover no-repeat; */
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    grid-auto-flow: row;
+    justify-items: center;
+    align-content: center;
+  }
+  
+  .hero-container > h1 {
+    color: #fff;
+    font-size: 90px;
+    margin-top: -100px;
+  }
+  
+  .hero-container > p {
+    margin-top: 8px;
+    color: #fff;
+    font-size: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+  }
+  
+  .hero-btns {
+    margin-top: 32px;
+  }
+  
+  .hero-btns .btn {
+    margin: 6px;
+  }
+  
+  .btnstyle{
+    background-color: transparent;
+    color: #fff;
+    border: 3px solid #fff;
+    transition: all 0.3s ease-out;
+    font-size: 29px;
+    padding: 13px;
+    margin: 20px;
+}
+
+
+.btnstyle:hover{
+    background: #fff;
+    color: #242424;
+    transition: all 0.3s ease-out;
+}
+  
+  @media screen and (max-width: 960px) {
+    .hero-container > h1 {
+      font-size: 70px;
+      margin-top: -150px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .hero-container > h1 {
+      font-size: 50px;
+      margin-top: -100px;
+    }
+  
+    .hero-container > h1{
+        font-size: 80px;
+    }
+    .hero-container > p {
+      font-size: 30px;
+    }
+  
+    .btn-mobile {
+      display: block;
+      text-decoration: none;
+    }
+  
+    .btn {
+      width: 100%;
+    }
+  }

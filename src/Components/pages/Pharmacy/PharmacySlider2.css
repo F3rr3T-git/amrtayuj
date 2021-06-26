@@ -1,0 +1,25 @@
+.pharmacySlider2-container{
+    height: 35vh !important;
+    margin: 4% 2%;
+
+}
+
+.pharmacySlide2{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    justify-items: center;
+    border: 2px solid blue;
+}
+
+.pharmacySlide2 > h4 {
+    display: grid;
+    align-items: end;
+    font-size: 35px;
+}
+
+.pharmacySlide2 > p {
+    display: grid;
+    justify-items: stretch;
+    font-size: 17px;
+}

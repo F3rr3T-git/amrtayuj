@@ -1,0 +1,39 @@
+.diagnosticsInfoDisplay2-container{
+    width: 100%;
+    height: 60vh;
+    margin: 2% 0%;
+    background-color:rgb(231, 204, 255); ;
+}
+.diagnosticsInfoDisplay2-container > h1{
+    display: grid;
+    justify-items: center;
+    padding: 4% 0% 0% 0% ;
+    font-size: 45px;
+
+}
+
+.diagnosticsInfoDisplay2-content{
+    width: 100%;
+    height: 42vh;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+
+.diagnosticsInfoDisplay2-content > div > p {
+    display: grid;
+    justify-items: center;
+    font-size: 15px;
+}
+.diagnosticsInfoDisplay2-content > div > div{
+    display: grid;
+    justify-items: center;
+    margin-top: 15%;
+    margin-bottom: 2%;
+}
+
+.diagnosticsInfoDisplay2-content > div > div > i{
+    font-size: 60px;
+    color: rgb(177, 118, 233);
+}
+

@@ -1,0 +1,110 @@
+.login-container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    background-color: #fff6f6;
+    
+}
+
+.login-subcontainer1,.login-subcontainer2 {
+margin-top: 2%;
+margin-bottom: 2%;
+}
+
+.login-subcontainer1{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    padding: 5%;
+    margin-right: 2.5%;
+    margin-left: 5%;
+}
+
+Practice-Projects
+ HTML
+
+Competitive-Programming-Solution
+
+.login-subcontainer2{
+    margin-left: 2.5%;
+    margin-right: 5%;
+    padding: 13.5%;
+    display: grid;
+    align-items: center;
+}
+
+.login-subcontainer2 > form{
+    box-shadow: 3px 4px 6px 4px rgb(209, 206, 206);
+    display: grid;
+    align-items: center;
+    grid-gap: 0.5%;
+    padding: 15%;
+    border-radius: 0.85rem;
+}
+
+.login-subcontainer2-title{
+    display: grid;
+    justify-items: center;
+    margin-bottom: 10%;
+}
+
+.login-subcontainer2-title{
+    font-size: 21px;
+    color:  #E9605A;;
+}
+
+.login-subcontainer2-forminpts {
+    display: grid;
+    grid-template-rows: repeat(1,1fr);
+    justify-items: start;
+    align-content: center;
+    padding: 2.5%;
+}
+
+.login-subcontainer2-forminpts > label{
+    font-size: 16px;
+    margin-bottom: 2%;
+    color: #392f97;
+}
+
+.login-subcontainer2-forminpts > input{
+    
+    width: 100%;
+    background-color: transparent;
+    border: 2px solid #dae6ff;
+    border-radius: 10px ;
+    outline: none;
+    padding: 2% 4%;
+}
+
+.login-subcontainer2-formbtn{
+    display: grid;
+    justify-items: center;
+    margin-top: 8%;
+}
+
+.login-subcontainer2-formbtn > button{
+    font-size: 23px;
+    font-weight: 500;
+    padding: 2%;
+    width: 50%;
+    background-color: #E9605A;
+    border: none;
+    border-radius: 3%;
+    color: white;
+}
+.login-subcontainer2-formbtn > button:hover{
+background-color: #ff5148;
+transform: scale(1.03);
+box-shadow: 1px 2px 6px 2px rgb(184, 181, 181);
+}
+
+.login-subcontainer2-extras{
+    display: grid;
+    justify-items: center;
+    margin-top: 7%;
+}
+
+.login-subcontainer2-extras > p{
+    font-size: 14px;
+}

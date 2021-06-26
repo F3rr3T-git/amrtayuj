@@ -1,0 +1,18 @@
+.swiper-container{
+    width: 95%;
+    height: 75vh;
+    margin: 30px;
+
+}
+.diagnosticsSlide3{
+    border: 3px solid rgb(201, 201, 201);
+    height: 100%;
+    display: grid;
+    grid-auto-flow: row;
+    justify-items: center;
+}
+
+.diagnosticsSlide3-img{
+    height:60%;
+    width:100%
+}
