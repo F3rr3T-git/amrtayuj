@@ -1,0 +1,36 @@
+.consultancySlider1-container{
+    width: 100%;
+    display: grid;
+    justify-items: center;
+    margin: 4% 0%;
+
+}
+
+.consultancySlider1-wrapper{
+    width: 95%;
+    overflow-x: scroll;
+    display: grid;
+    grid-auto-flow: column;
+    justify-items: stretch;
+}
+.consultancySlider1-wrapper > div{
+    border: 1px solid rgb(219, 219, 219);
+    width: 290px;
+    height: 340px;
+    margin: 12px 15px;
+}
+
+.consultancySlider1-wrapper > div > img{
+    width: 290px;
+    height: 210px;
+}
+
+.consultancySlider1-wrapper > div > h3{
+    margin: 5% 5% 1% 5%;
+}
+.consultancySlider1-wrapper > div > p{
+    margin: 2% 5% 3% 5%;
+}
+.consultancySlider1-wrapper > div > h5{
+    margin: 11% 5% 3% 5%;
+}

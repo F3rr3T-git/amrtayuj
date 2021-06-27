@@ -1,0 +1,47 @@
+.consultancySlider2-container{
+    height: 35vh !important;
+    width: 96% !important;
+    padding: 1% 1%;
+}
+
+.consultancySlide2{
+    height: 100%;
+    padding: 4%;
+    border-radius: 30px;
+}
+.consultancySlide2:hover{
+    transform: scale(1.01);
+}
+
+
+.consultancySlide2 > button{
+    margin-bottom: 3%;
+    font-size: 15px;
+    padding: 1% 5%;
+    font-weight: 700;
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+    color: #96D3BF;
+    
+}
+
+.consultancySlide2 > h2{
+
+    font-weight: 400;
+}
+
+.consultancySlide2 > h4{
+    margin-top: 6%;
+    font-size: 20px;
+}
+
+.bgcl1 {background-color: #96D3BF;}
+.bgcl1:hover{background-color: #51ffc5;}
+.bgcl1 > button {color:#3bc295 ;}
+.bgcl2 {background-color: #fdd4ef;}
+.bgcl2:hover{background-color: #ff8bd8;}
+.bgcl2 > button {color:#e65db6 ;}
+.bgcl3 {background-color: #FEBA7F;}
+.bgcl3:hover {background-color: #ffa353;}
+.bgcl3 > button {color:#e67e24 ;}

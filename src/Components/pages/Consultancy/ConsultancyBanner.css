@@ -1,0 +1,38 @@
+.consultancyBanner-container{
+    width: 100%;
+    padding: 2% 4%;
+    display: grid;
+    justify-items: start;
+    background-color: #ffe4df;
+}
+
+
+.consultancyBanner-container > h1{
+    margin: 3.5% 0% 1.5% 0%;
+    font-size: 35px;
+}
+
+.consultancyBanner-container > h4{
+    margin-bottom: 3.55%;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.consultancyBanner-container > button{
+    margin-bottom: 3.5%;
+    padding: 1.4% 3.5%;
+    font-size: 20px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(6, 180, 0);
+    color: white;
+    font-weight: 700;
+}
+.consultancyBanner-container > button:hover{
+    transform: scale(1.02);
+    background-color: rgb(8, 209, 1);
+}
+
+.consultancyBanner-container > p{
+    margin-bottom: 3.5%;
+}
