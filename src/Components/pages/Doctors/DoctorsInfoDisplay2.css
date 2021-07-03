@@ -1,0 +1,28 @@
+.doctorsInfoDisplay2-container{
+display: grid;
+justify-items: end;
+background-color: #E7CCFF;
+}
+
+.doctorsInfoDisplay2-container > h1{
+    margin: 5% 6% 3% 0%;
+    font-size: 37px;
+    font-weight: 400;
+}
+
+.doctorsInfoDisplay2-container > div{
+    margin: 1% 22%;
+}
+.doctorsInfoDisplay2-container > div > p{
+    padding: 3% 0%;
+    font-size: 18px;
+}
+
+.doctorsInfoDisplay2-container > button{
+    border: none;
+    font-size: 25px;
+    padding: 1% 3%;
+    border-radius: 15px;
+    margin: 2% 30% 5% 0%;
+    background-color: paleturquoise;
+}

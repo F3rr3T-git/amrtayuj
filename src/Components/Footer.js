@@ -5,7 +5,7 @@ function Footer() {
         <div className="footer">
          <div className="footer-quicklinks">
              <div className="quicklinks-items">
-                <h4>Practo</h4>
+                <h4>Amrta-Yuj</h4>
                 <br/>
                 <p>About</p>
                 <p>Blog</p>
@@ -26,30 +26,30 @@ function Footer() {
                  <p>Consult a doctor</p>
                  <p>Order medicines</p>
                  <p>Read about medicines</p>
-                 <p>Practo drive</p>
+                 <p>Amrta-Yuj drive</p>
              </div>
              <div className="quicklinks-items">
                  <h4>For Doctors</h4>
                  <br/>
-                 <p>Practo Consult</p>
-                 <p>Practo Health Feed</p>
-                 <p>Practo Profile</p>
+                 <p>Amrta-Yuj Consult</p>
+                 <p>Amrta-Yuj Health Feed</p>
+                 <p>Amrta-Yuj Profile</p>
                  <br/>
                  <h4>For clinics</h4>
-                 <p>Practo Prime</p>
-                 <p>Ray by Practo</p>
-                 <p>Practo Reach</p>
+                 <p>Amrta-Yuj Prime</p>
+                 <p>Ray by Amrta-Yuj</p>
+                 <p>Amrta-Yuj Reach</p>
                  <p>Ray Tab</p>
-                 <p>Practo Pro</p>
+                 <p>Amrta-Yuj Pro</p>
                  </div>
              <div className="quicklinks-items">
                  <h4>For Hospitals</h4>
                  <br/>
-                 <p>Insta by Practo</p>
-                 <p>Qikwell by Practo</p>
-                 <p>Practo Profile</p>
-                 <p>Practo Reach</p>
-                 <p>Practo Drive</p>
+                 <p>Insta by Amrta-Yuj</p>
+                 <p>Qikwell by Amrta-Yuj</p>
+                 <p>Amrta-Yuj Profile</p>
+                 <p>Amrta-Yuj Reach</p>
+                 <p>Amrta-Yuj Drive</p>
              </div>
              <div className="quicklinks-items">
                 <h4>More </h4>
@@ -59,7 +59,7 @@ function Footer() {
                 <p>Privacy Policy</p>
                 <p>Terms & Conditions</p>
                 <p>Healthcare Directory</p>
-                <p>Practo Health Wiki</p>
+                <p>Amrta-Yuj Health Wiki</p>
              </div>
          </div>
          <div className="footer-logo">Amrta-Yuj</div>   

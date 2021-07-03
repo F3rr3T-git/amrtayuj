@@ -1,0 +1,28 @@
+.consultancySlider3-container{
+    height: 35vh !important;
+    width: 96% !important;
+    padding: 1% 1%;
+}
+
+.consultancySlide3{
+    border: 1px solid rgb(211, 211, 211);
+    height: 100%;
+    display: grid;
+    align-items: end;
+}
+
+.consultancySlide3 > h2{
+    display: grid;
+    justify-items: center;
+    font-size: 25px;
+    font-weight: 10;
+    padding: 3% 0%;
+    background-color: black;
+    color: white;
+    opacity: 0.5;
+}
+
+.consultancySlide3:hover{
+    background-color: rgb(204, 204, 253);
+    transform: scale(1.03);
+}

@@ -16,7 +16,7 @@ function DiagnosticsSlider1() {
                     <div className="diagnosticsSlide1">
                         <h5>Test1</h5>
                         <p>Test1 specification<br/>More specs</p>
-                        <h2>$25</h2>
+                        <h2>₹25</h2>
                         <h4>ADD</h4>
                     </div>
                 </SwiperSlide>
@@ -24,7 +24,7 @@ function DiagnosticsSlider1() {
                 <div className="diagnosticsSlide1">
                         <h5>Test2</h5>
                         <p>Test2 specification<br/>More specs</p>
-                        <h2>$25</h2>
+                        <h2>₹25</h2>
                         <h4>ADD</h4>
                     </div>
                 </SwiperSlide>
@@ -32,7 +32,7 @@ function DiagnosticsSlider1() {
                 <div className="diagnosticsSlide1">
                         <h5>Test3</h5>
                         <p>Test3 specification<br/>More specs</p>
-                        <h2>$25</h2>
+                        <h2>₹25</h2>
                         <h4>ADD</h4>
                     </div>
                 </SwiperSlide>
@@ -40,7 +40,7 @@ function DiagnosticsSlider1() {
                 <div className="diagnosticsSlide1">
                         <h5>Test4</h5>
                         <p>Test4 specification<br/>More specs</p>
-                        <h2>$25</h2>
+                        <h2>₹25</h2>
                         <h4>ADD</h4>
                     </div>
                 </SwiperSlide>
@@ -48,7 +48,7 @@ function DiagnosticsSlider1() {
                 <div className="diagnosticsSlide1">
                         <h5>Test5</h5>
                         <p>Test6 specification<br/>More specs</p>
-                        <h2>$25</h2>
+                        <h2>₹25</h2>
                         <h4>ADD</h4>
                     </div>
                 </SwiperSlide>
@@ -56,7 +56,7 @@ function DiagnosticsSlider1() {
                 <div className="diagnosticsSlide1">
                         <h5>Test6</h5>
                         <p>Test6 specification<br/>More specs</p>
-                        <h2>$25</h2>
+                        <h2>₹25</h2>
                         <h4>ADD</h4>
                     </div>
                 </SwiperSlide>
@@ -64,7 +64,7 @@ function DiagnosticsSlider1() {
                 <div className="diagnosticsSlide1">
                         <h5>Test7</h5>
                         <p>Test7 specification<br/>More specs</p>
-                        <h2>$25</h2>
+                        <h2>₹25</h2>
                         <h4>ADD</h4>
                     </div>
 
@@ -73,7 +73,7 @@ function DiagnosticsSlider1() {
                 <div className="diagnosticsSlide1">
                         <h5>Test8</h5>
                         <p>Test8 specification<br/>More specs</p>
-                        <h2>$25</h2>
+                        <h2>₹25</h2>
                         <h4>ADD</h4>
                     </div>
                 </SwiperSlide>

@@ -28,13 +28,13 @@
     display: grid;
     justify-items: center;
     align-items: center;
-    background-color: #f0d8e9;
+    background-color: #E7CCFF;
     font-size: 22px;
 }
 
 .grid1-item:hover{
     transform: scale(1.03);
-    background-color:  #ffc4ed;
+    background-color:  #d6a7ff;
 }
 
 

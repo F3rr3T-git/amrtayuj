@@ -1,9 +1,9 @@
 import React from 'react';
-import './ConsultancyInfo.css';
+import './ConsultancyInfoDisplay1.css';
 
-function ConsultancyInfo() {
+function ConsultancyInfoDisplay1() {
     return (
-        <div className="consultancyInfo-container">
+        <div className="consultancyInfoDisplay1-container">
             <h1>Benefits of Online Consultation</h1>
             <div>
                 <div>
@@ -37,4 +37,4 @@ function ConsultancyInfo() {
     )
 }
 
-export default ConsultancyInfo;
+export default ConsultancyInfoDisplay1;

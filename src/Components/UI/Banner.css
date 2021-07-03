@@ -2,7 +2,7 @@
 .banner-container{
     width: 100%;
     height: 60vh;
-    background-color: #D6E1F3;
+    background-color: #E7CCFF;
     padding-top: 60px;
     padding-bottom: 60px;
     padding-left: 20px;
@@ -25,11 +25,12 @@ font-size: 20px;
 padding: 10px 25px;
 border-radius: 8px;
 color: white;
-background-color: turquoise;
+background-color: #B176E9;
 border: none;
 transition-duration: 0.4s;
 }
 
 .banner-btn:hover{
-    background-color: rgb(43, 206, 190);
+    background-color: #a94efd;
+    transform: scale(1.02);
 }

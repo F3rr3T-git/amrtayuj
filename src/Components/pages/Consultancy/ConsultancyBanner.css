@@ -3,7 +3,7 @@
     padding: 2% 4%;
     display: grid;
     justify-items: start;
-    background-color: #ffe4df;
+    background-color: #E7CCFF;
 }
 
 
@@ -24,7 +24,7 @@
     font-size: 20px;
     border: none;
     border-radius: 15px;
-    background-color: rgb(6, 180, 0);
+    background-color: rgb(67, 214, 62);
     color: white;
     font-weight: 700;
 }

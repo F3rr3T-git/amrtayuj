@@ -1,15 +1,15 @@
-.consultancyInfo-container{
+.consultancyInfoDisplay1-container{
     margin:3% 0%;
 
 }
-.consultancyInfo-container > h1{
+.consultancyInfoDisplay1-container > h1{
     margin: 3% 2%;
     font-weight: 400;
     font-size: 35px;
     font-weight: 600;
 }
 
-.consultancyInfo-container > div{
+.consultancyInfoDisplay1-container > div{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     justify-content: center;
@@ -17,11 +17,11 @@
     border: 1px solid rgb(204, 204, 204);
 }
 
-.consultancyInfo-container > div > div{
+.consultancyInfoDisplay1-container > div > div{
     height: 25vh;
 }
 
-.consultancyInfo-container > div >div >h2{
+.consultancyInfoDisplay1-container > div >div >h2{
     display: grid;
     justify-items: center;
     font-weight: 400;
@@ -30,7 +30,7 @@
     /* border: 1px solid orange; */
 }
 
-.consultancyInfo-container > div >div >p{
+.consultancyInfoDisplay1-container > div >div >p{
     display: grid;
     justify-items: center;
     font-size: 15px;
