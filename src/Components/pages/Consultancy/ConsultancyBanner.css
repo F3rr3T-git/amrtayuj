@@ -1,4 +1,14 @@
 .consultancyBanner-container{
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.consultancyBanner-container > img{
+    width: 100%;
+    background-color:  #E7CCFF;
+}
+
+.consultancyBanner-wrapper{
     width: 100%;
     padding: 2% 4%;
     display: grid;
@@ -7,20 +17,20 @@
 }
 
 
-.consultancyBanner-container > h1{
-    margin: 3.5% 0% 1.5% 0%;
-    font-size: 35px;
+.consultancyBanner-wrapper > h1{
+    margin: 5.5% 0% 1.5% 0%;
+    font-size: 33px;
 }
 
-.consultancyBanner-container > h4{
+.consultancyBanner-wrapper > h4{
     margin-bottom: 3.55%;
     font-weight: 400;
     font-size: 20px;
 }
 
-.consultancyBanner-container > button{
-    margin-bottom: 3.5%;
-    padding: 1.4% 3.5%;
+.consultancyBanner-wrapper > button{
+    margin-bottom: 5.5%;
+    padding: .8% 3.5%;
     font-size: 20px;
     border: none;
     border-radius: 15px;
@@ -28,11 +38,11 @@
     color: white;
     font-weight: 700;
 }
-.consultancyBanner-container > button:hover{
+.consultancyBanner-wrapper > button:hover{
     transform: scale(1.02);
     background-color: rgb(8, 209, 1);
 }
 
-.consultancyBanner-container > p{
+.consultancyBanner-wrapper > p{
     margin-bottom: 3.5%;
 }

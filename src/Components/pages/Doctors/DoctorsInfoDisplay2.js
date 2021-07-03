@@ -4,6 +4,8 @@ import './DoctorsInfoDisplay2.css'
 function DoctorsInfoDisplay2() {
     return (
         <div className="doctorsInfoDisplay2-container">
+        <img className="banner-img" src="/images/consultancybannerpic.png" alt="banner-img" />
+        <div className="doctorsInfoDisplay2-wrapper">
             
             <h1>Skip the waiting room.<br/>
             <b>Consult with a doctor now</b></h1>
@@ -15,6 +17,7 @@ function DoctorsInfoDisplay2() {
             </div>
 
             <button>Consult Now</button>
+        </div>
         </div>
     )
 }

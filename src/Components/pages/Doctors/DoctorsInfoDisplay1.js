@@ -3,7 +3,9 @@ import './DoctorsInfoDisplay1.css'
 
 function DoctorsInfoDisplay1() {
     return (
+
         <div className="doctorsInfoDisplay1-container">
+        <div className="doctorsInfoDisplay1-wrapper">
             <h1>Instant appointment with.<br/>
             doctors.<b>Guaranteed.</b></h1>
             
@@ -14,7 +16,8 @@ function DoctorsInfoDisplay1() {
             </div>
             
             <button>Find Doctors</button>
-
+        </div>
+        <img className="banner-img" src="/images/docinfopic1.png" alt="banner-img" />
         </div>
     )
 }

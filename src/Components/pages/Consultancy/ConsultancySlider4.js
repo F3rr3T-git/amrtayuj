@@ -13,42 +13,42 @@ function ConsultancySlider4() {
            <Swiper pagination={{clickable:true}} slidesPerView={3} spaceBetween={20} className="consultancySlider4-container">
               <SwiperSlide>
                     <div className="consultancySlide4">
-                       <h4>Slide 1</h4>
+                       <h4>Testimonials</h4>
                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br/>
                        Lorem Ipsum has been the industry's standard </p> 
                     </div>
               </SwiperSlide>
               <SwiperSlide>
                     <div className="consultancySlide4">
-                       <h4>Slide 2</h4>
+                       <h4>Testimonials</h4>
                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br/>
                        Lorem Ipsum has been the industry's standard </p> 
                     </div>
               </SwiperSlide>
               <SwiperSlide>
                     <div className="consultancySlide4">
-                       <h4>Slide 3</h4>
+                       <h4>Testimonials</h4>
                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br/>
                        Lorem Ipsum has been the industry's standard </p> 
                     </div>
               </SwiperSlide>
               <SwiperSlide>
                     <div className="consultancySlide4">
-                       <h4>Slide 4</h4>
+                       <h4>Testimonials</h4>
                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br/>
                        Lorem Ipsum has been the industry's standard </p> 
                     </div>
               </SwiperSlide>
               <SwiperSlide>
                     <div className="consultancySlide4">
-                       <h4>Slide 4</h4>
+                       <h4>Testimonials</h4>
                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br/>
                        Lorem Ipsum has been the industry's standard </p> 
                     </div>
               </SwiperSlide>
               <SwiperSlide>
                     <div className="consultancySlide4">
-                       <h4>Slide 4</h4>
+                       <h4>Testimonials</h4>
                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br/>
                        Lorem Ipsum has been the industry's standard </p> 
                     </div>

@@ -12,50 +12,50 @@ function DiagnosticsSlider3() {
       <Swiper navigation slidesPerView={3} spaceBetween={40}>
         <SwiperSlide>
         <div className="diagnosticsSlide3">
-        <img className="diagnosticsSlide3-img" src="/images/black.jpg" alt="bla"/>  
-        Slide1
+        <img className="diagnosticsSlide3-img" src="/images/testpic3.jpg" alt="bla"/>  
+        <h3>Health Checkup Test Package</h3>
         </div>
         </SwiperSlide>        
         <SwiperSlide>
         <div className="diagnosticsSlide3">
-        <img className="diagnosticsSlide3-img" src="/images/black.jpg" alt="bla"/>  
-        Slide1
+        <img className="diagnosticsSlide3-img" src="/images/testpic4.jpg" alt="bla"/>  
+        <h3>Health Checkup Test Package</h3>
         </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className="diagnosticsSlide3">
-        <img className="diagnosticsSlide3-img" src="/images/black.jpg" alt="bla"/>  
-        Slide2
+        <img className="diagnosticsSlide3-img" src="/images/testpic3.jpg" alt="bla"/>  
+        <h3>Health Checkup Test Package</h3>
         </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className="diagnosticsSlide3">
-        <img className="diagnosticsSlide3-img" src="/images/black.jpg" alt="bla"/>  
-        Slide3
+        <img className="diagnosticsSlide3-img" src="/images/testpic4.jpg" alt="bla"/>  
+        <h3>Health Checkup Test Package</h3>
         </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className="diagnosticsSlide3">
-        <img className="diagnosticsSlide3-img" src="/images/black.jpg" alt="bla"/>  
-        Slide4
+        <img className="diagnosticsSlide3-img" src="/images/testpic3.jpg" alt="bla"/>  
+        <h3>Health Checkup Test Package</h3>
         </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className="diagnosticsSlide3">
-        <img className="diagnosticsSlide3-img" src="/images/black.jpg" alt="bla"/>  
-        Slide5
+        <img className="diagnosticsSlide3-img" src="/images/testpic4.jpg" alt="bla"/>  
+        <h3>Health Checkup Test Package</h3>
         </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className="diagnosticsSlide3">
-        <img className="diagnosticsSlide3-img" src="/images/black.jpg" alt="bla"/>  
-        Slide6
+        <img className="diagnosticsSlide3-img" src="/images/testpic3.jpg" alt="bla"/>  
+        <h3>Health Checkup Test Package</h3> 
         </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className="diagnosticsSlide3">
-        <img className="diagnosticsSlide3-img" src="/images/black.jpg" alt="bla"/>  
-        Slide7
+        <img className="diagnosticsSlide3-img" src="/images/testpic4.jpg" alt="bla"/>  
+        <h3>Health Checkup Test Package</h3> 
         </div>
         </SwiperSlide>
 

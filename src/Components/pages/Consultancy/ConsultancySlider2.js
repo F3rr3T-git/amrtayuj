@@ -20,7 +20,7 @@ function ConsultancySlider2() {
               </SwiperSlide>
               <SwiperSlide>
               <div className="consultancySlide2 bgcl2">
-                        <button>PRACTO PLUS</button>
+                        <button>AMRTA-YUJ PLUS</button>
                         <h2>Free online consultation</h2>
                         <h2>starting at ₹799/month</h2>
                         <h4>Get membership</h4>

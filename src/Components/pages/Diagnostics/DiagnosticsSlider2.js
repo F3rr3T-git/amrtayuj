@@ -13,46 +13,55 @@ function DiagnosticsSlider3() {
             <Swiper navigation slidesPerView={5} spaceBetween={20} className="diagnosticsSlider2-container">
                 <SwiperSlide >
                     <div className="diagnosticsSlide2">
+                        <img className="diagnostics-img" src="/images/testpic1.jpg" alt="docimg" />
                         <h2>Test 1</h2>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide >
                     <div className="diagnosticsSlide2">
+                    <img className="diagnostics-img" src="/images/testpic2.jpg" alt="docimg" />
                         <h2>Test 2</h2>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide >
                     <div className="diagnosticsSlide2">
+                    <img className="diagnostics-img" src="/images/testpic1.jpg" alt="docimg" />
                         <h2>Test 3</h2>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide >
                     <div className="diagnosticsSlide2">
+                    <img className="diagnostics-img" src="/images/testpic2.jpg" alt="docimg" />
                         <h2>Test 4</h2>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide >
                     <div className="diagnosticsSlide2">
+                    <img className="diagnostics-img" src="/images/testpic1.jpg" alt="docimg" />
                         <h2>Test 5</h2>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide >
                     <div className="diagnosticsSlide2">
+                    <img className="diagnostics-img" src="/images/testpic2.jpg" alt="docimg" />
                         <h2>Test 6</h2>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide >
                     <div className="diagnosticsSlide2">
+                    <img className="diagnostics-img" src="/images/testpic1.jpg" alt="docimg" />
                         <h2>Test 7</h2>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide >
                     <div className="diagnosticsSlide2">
+                    <img className="diagnostics-img" src="/images/testpic2.jpg" alt="docimg" />
                         <h2>Test 8</h2>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide >
                     <div className="diagnosticsSlide2">
+                    <img className="diagnostics-img" src="/images/testpic1.jpg" alt="docimg" />
                         <h2>Test 9</h2>
                     </div>
                 </SwiperSlide>
